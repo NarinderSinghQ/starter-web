@@ -13,6 +13,6 @@ Git push origin master(master is branch name)
 now creating a fresh new repository for git.
 Git init reponame
 
-FORK – this is used to copy another repository to own account .
+FORK – this is used to copy another dfsdfsd f sdfsd fsdfsrepository to own account .
 Let suppose number of devs are working on a project but now we I have to push something . 
 Before doing so we have to do git pull origin master because to make sure we are upto date with the other developers .
