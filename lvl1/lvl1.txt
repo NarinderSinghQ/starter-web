@@ -1,0 +1,19 @@
+Branch is just a timeline which contain different versions of project
+Git version – to check version
+Git config –global user.name “”
+Git config –global –list to get list of all global elements
+Git clone url
+Git status to check status of our repository like difference in repository and local file
+Git add somefile.extension
+Git commit-m”along with a committing massage”
+Rv -rf file of dir name . to delete that file
+Now we have done committing changes but need to upload to repository so use –
+Git push origin master(master is branch name)
+
+now creating a fresh new repository for git.
+Git init reponame
+
+FORK – this is used to copy another repository to own account .
+Let suppose number of devs are working on a project but now we I have to push something . 
+Before doing so we have to do git pull origin master because to make sure we are upto date with the other developers .
+fsafds
