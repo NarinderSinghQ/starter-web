@@ -3,7 +3,7 @@
 ## Introduction
  this is introductin 
 ### pupose
-  this si purpose
+  this si purpose well uper mane pupose lika haih lomao lol lmao lkhna tha 
 ## how to contribute
 you can uhhue
 ## deployemnt
