@@ -1,7 +1,7 @@
 # starter web projet
 
-##Introduction
+## Introduction
 
-###pupose
+### pupose
 
-##how to contribute
+## how to contribute
