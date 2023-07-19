@@ -5,7 +5,7 @@
 ### pupose
   this si purpose well uper mane pupose lika haih lomao lol lmao lkhna tha 
 ## how to contribute
-you can uhhue
+im here to contribute
 ## deployemnt
 
 after this you can develop this project and do ssomethin alreadyyy
